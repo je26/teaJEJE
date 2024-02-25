@@ -1,6 +1,6 @@
 # teaJEJE
 jejeTEA
-# https://tea.xyz/what-is-this-file
+# https://tea.xyz/tea
 ---
 version: 1.0.0
 codeOwners:
